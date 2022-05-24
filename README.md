@@ -31,3 +31,7 @@ There are two tests that can be run in the browser:
 ## Disclaimer
 
 I probably made lots of errors.
+
+## License
+
+MIT
