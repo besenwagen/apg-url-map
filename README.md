@@ -6,6 +6,8 @@
   *WAI-ARIA Authoring Practices 1.2* URLs to
   their new destinations.
 
+[https://besenwagen.github.io/apg-url-map/url-map.js](https://besenwagen.github.io/apg-url-map/url-map.js)
+
 If you use Deno to programmatically fix URLs in your own resources, you
 can just import the module as is. For Node, copy it to the file system
 and change the extension to .mjs if necessary. For other languages, you
@@ -23,7 +25,9 @@ The injected IA HTML header has been stripped out.
 
 ## Tests
 
-There are two tests that can be run in the browser:
+There are two
+[tests](https://besenwagen.github.io/apg-url-map/test.html)
+that can be run in the browser:
 
 - verify that all old URLs are available as keys
 - verify that the value URLs can be retrieved and the fragment identifiers match an ID
