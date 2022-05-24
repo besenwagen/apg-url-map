@@ -1,0 +1,7 @@
+version: "3.6"
+services:
+  node:
+    environment:
+      - PROJECT=apg
+    volumes:
+      - ~/Workspace/Projects/apg/docs:/home/node/workspace/public
